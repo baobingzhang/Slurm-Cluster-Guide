@@ -253,8 +253,8 @@
 > ## 📚 参考资源
 >
 > - [Slurm官方文档](https://slurm.schedmd.com/documentation.html)
-> - - [PyTorch安装指南](https://pytorch.org/get-started/locally/)
->   - - [HuggingFace Transformers](https://huggingface.co/docs/transformers)
+> - [PyTorch安装指南](https://pytorch.org/get-started/locally/)
+> - [HuggingFace Transformers](https://huggingface.co/docs/transformers)
 >    
 >     - ---
 >
